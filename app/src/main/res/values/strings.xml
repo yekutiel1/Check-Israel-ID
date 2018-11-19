@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Check Israel ID</string>
+    <string name="delete">Delete</string>
+    <string name="validID">Valid ID</string>
+    <string name="invalidID">Invalid ID</string>
+    <string name="Enter_9_numbers">Enter 9 numbers!</string>
+    <string name="hint">Enter the ID number</string>
+</resources>

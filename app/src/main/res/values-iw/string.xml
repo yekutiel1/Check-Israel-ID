@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">בודק ת.ז. ישראלית</string>
+    <string name="delete">מחק</string>
+    <string name="validID">תעודת זהות חוקית</string>
+    <string name="invalidID">תעודת זהות לא חוקית</string>
+    <string name="Enter_9_numbers">הקלד 9 ספרות!</string>
+    <string name="hint">הכנס מספר זהות</string>
+</resources>
